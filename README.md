@@ -6,7 +6,7 @@ Welcome to **ZeroOfC**! This repository contains a single, comprehensive C sourc
 
 It acts as a "living textbook," covering everything from basic "Hello World" outputs to complex concepts like pointers, structures, bitwise operations, and file handling.
 
-**Author:** Nanush  
+**Author:** Nalinakshan  
 **Language:** C (Standard C99/C11)
 
 ---
